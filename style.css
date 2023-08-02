@@ -21,9 +21,9 @@ body {
     font-size: 20px;
 }
 #result{
-    background-color: green;
-    width: 40%;
-    text-align: center;
+    background-color:#313131;
+    width: 100%;
+    text-align: end;
     color: aliceblue;
     padding: 10px 20px;
     margin-bottom: 20px;
@@ -39,7 +39,7 @@ input{
     border: none;
     outline: none;
 }
-/* input::placeholder {
+input::placeholder {
     color: hsl(36.75deg 95.24% 49.41%);
     font-size: 40px;
     font-weight: 600;
@@ -103,4 +103,4 @@ button{
     display: flex;
     justify-content: center;
     align-items: center;
-} */
+}
